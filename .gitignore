@@ -1,0 +1,7 @@
+# open-joblist
+.vscode/
+node_modules/
+target/
+*.log
+*.map
+dest/
